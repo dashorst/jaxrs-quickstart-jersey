@@ -14,7 +14,7 @@ Getting started
 Perform a git clone of the repository and remove the git bits:
 
     git clone https://github.com/dashorst/jaxrs-quickstart-jersey.git
-    cd jersey-quickstart
+    cd jaxrs-quickstart-jersey
     rm -rf .git
 
 Now you can import the project into your favorite IDE, use the Maven
