@@ -13,7 +13,7 @@ Getting started
 
 Perform a git clone of the repository and remove the git bits:
 
-    git clone https://github.com/dashorst/jersey-quickstart.git
+    git clone https://github.com/dashorst/jaxrs-quickstart-jersey.git
     cd jersey-quickstart
     rm -rf .git
 
