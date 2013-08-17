@@ -1,8 +1,8 @@
-resteasy-quickstart
+jersey-quickstart
 ===================
 
 This is a base project to quickly test concepts for JAX-RS using
-Resteasy and Jetty.
+jersey and Jetty.
 
 It contains a Start class that configures jetty correctly and has
 Maven configured such that RestEasy will automatically find your REST
@@ -13,8 +13,8 @@ Getting started
 
 Perform a git clone of the repository and remove the git bits:
 
-    git clone https://github.com/dashorst/resteasy-quickstart.git
-    cd resteasy-quickstart
+    git clone https://github.com/dashorst/jersey-quickstart.git
+    cd jersey-quickstart
     rm -rf .git
 
 Now you can import the project into your favorite IDE, use the Maven
